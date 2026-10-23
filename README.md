@@ -1,2 +1,1 @@
-# Reading List
-My personal list of books to read.
+A shared list of personal books to read
