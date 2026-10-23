@@ -1,2 +1,2 @@
 # Reading List
-Books I want to read.
+My personal list of books to read.
