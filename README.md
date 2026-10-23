@@ -1,2 +1,2 @@
 # Reading List
-Books I want to read.
+A shared list of books to read.
